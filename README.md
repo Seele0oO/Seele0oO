@@ -9,10 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python           2 hrs 28 mins   ██████████████████▓░░░░░░   74.63 % 
-C                23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-SQL              23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-INI              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
