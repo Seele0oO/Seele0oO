@@ -10,8 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash             2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.56 %
-Other            1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Bash             2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   36.57 %
+Other            1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.27 %
 ```
 
 <!--END_SECTION:waka-->
