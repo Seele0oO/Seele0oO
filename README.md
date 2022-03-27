@@ -10,6 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 2 hrs 33 mins
+
 Python       50 mins         ███████░░░░░░░░░░░░░░░░░░   28.01 %
 YAML         42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
 Other        26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
