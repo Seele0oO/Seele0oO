@@ -10,10 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 16 mins
-
-Python       1 hr 14 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.01 %
-Git Config   1 min           ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
