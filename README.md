@@ -21,9 +21,5 @@ Other                      ░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-    Coding almost be full of my life.
-
-    I need it,and I'm lonely…
-
 [GPG PUB KEY](https://keys.openpgp.org/vks/v1/by-fingerprint/3FCE91BF5B9666B55B67213C4C57B7824A5B6680)
 
