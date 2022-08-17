@@ -21,12 +21,6 @@ SQL                              █▓░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/Platane/snk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Seele0oO/Seele0oO//raw/main/snakes/dark.svg">
-    <img alt="GitHub Contributions" src="https://github.com/Seele0oO/Seele0oO//raw/main/snakes/light.svg">
-  </picture>
-</a>
 
 [GPG PUB KEY](https://keys.openpgp.org/vks/v1/by-fingerprint/3FCE91BF5B9666B55B67213C4C57B7824A5B6680)
 
