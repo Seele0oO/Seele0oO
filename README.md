@@ -20,8 +20,7 @@ SQL                              █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <a href="https://github.com/Platane/snk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Seele0oO/Seele0oO//raw/main/snakes/dark.svg">
