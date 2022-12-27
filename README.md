@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C                        ████████████████████████▓   98.24 %
-Python                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
