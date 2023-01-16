@@ -10,7 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python                       ████████████████████████░   96.04 %
+Git Config                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
