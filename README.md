@@ -10,7 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js                   ██████████████▓░░░░░░░░░░   59.16 %
+Python                   █████████▒░░░░░░░░░░░░░░░   37.50 %
+YAML                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
