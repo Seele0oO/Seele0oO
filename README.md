@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text                   ██████████████░░░░░░░░░░░   56.36 %
-YAML                   ███████████░░░░░░░░░░░░░░   43.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
