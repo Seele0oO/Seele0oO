@@ -10,7 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown                     ████████████████▓░░░░░░░░   66.08 %
+TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
