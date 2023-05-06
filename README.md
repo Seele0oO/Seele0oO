@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON                         ██████████░░░░░░░░░░░░░░░   40.48 %
-Other                        ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
