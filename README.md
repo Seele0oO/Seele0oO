@@ -2,10 +2,9 @@
 
 <b>Hello world</b>
 
-<div style="display: flex;">
-    <img src='/assets/stats.svg' alt="Seele's github stats" style="margin-right: 20px;">
-    <img src='/assets/top-langs.svg' alt="Seele's github langs">
-</div>
+<img src='/assets/stats.svg' alt="Seele's github stats" >
+
+<img src='/assets/top-langs.svg' alt="Seele's github langs">
 
 <h4>Coding status last week </h4>
 
