@@ -28,7 +28,7 @@ jobs:
           -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" \
           -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8" \
           "https://github-readme-stats-drha0g2qy.vercel.app/api/top-langs/?username=seele0oO" \
-          -o stats.svg
+          -o top-langs.svg
         
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
