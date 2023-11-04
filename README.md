@@ -2,10 +2,10 @@
 <br>
 <b> Hello world</b>
 <br>
-<!-- <img src="https://github-readme-stats-drha0g2qy.vercel.app/api?username=Seele0oO&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Seele's github stats"/> -->
-<img src='./stats.svg' alt="Seele's github stats>
 
-<img src='./top-langs.svg' alt="Seele's github stats">
+<img src='./assets/stats.svg' alt="Seele's github stats>
+
+<img src='./assets/top-langs.svg' alt="Seele's github stats">
 
 <br>
 
