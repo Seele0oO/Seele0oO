@@ -1,13 +1,11 @@
 <h1>Hi I'm Seele</h1>
-<br>
-<b> Hello world</b>
-<br>
 
-<img src='./assets/stats.svg' alt="Seele's github stats>
+<b>Hello world</b>
 
-<img src='./assets/top-langs.svg' alt="Seele's github stats">
-
-<br>
+<div style="display: flex;">
+    <img src='/assets/stats.svg' alt="Seele's github stats" style="margin-right: 20px;">
+    <img src='/assets/top-langs.svg' alt="Seele's github langs">
+</div>
 
 <h4>Coding status last week </h4>
 
@@ -23,8 +21,6 @@ SCSS                          ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-
 [GPG PUB KEY](https://keys.openpgp.org/vks/v1/by-fingerprint/3FCE91BF5B9666B55B67213C4C57B7824A5B6680)
 
-Alive Status: ![Alive Status](	https://hc.dvd.moe/badge/60bc779b-9835-415f-9cb9-15fd9d/ZsLaAAbE.svg)
+Alive Status: ![Alive Status](https://hc.dvd.moe/badge/60bc779b-9835-415f-9cb9-15fd9d/ZsLaAAbE.svg)
