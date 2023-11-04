@@ -18,7 +18,7 @@ jobs:
         run: curl 'https://github-readme-stats-drha0g2qy.vercel.app/api?username=Seele0oO&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true' -o stats.svg
 
       - name: Download the top languages file
-        run: curl 'https://github-readme-stats.vercel.app/api/top-langs/?username=seele0oO' -o top-langs.svg
+        run: curl 'https://github-readme-stats-drha0g2qy.vercel.app/api/top-langs/?username=seele0oO' -o top-langs.svg
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
