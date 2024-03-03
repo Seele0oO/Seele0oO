@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                   ████████████████████████▓   98.49 %
-Git                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
