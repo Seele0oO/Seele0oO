@@ -11,7 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript                   ███████████████▒░░░░░░░░░   60.69 %
+Other                        █████████░░░░░░░░░░░░░░░░   35.38 %
+TOML                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
