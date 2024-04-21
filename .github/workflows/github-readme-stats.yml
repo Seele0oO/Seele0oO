@@ -19,7 +19,7 @@ jobs:
           curl -v -L \
           -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" \
           -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8" \
-          "https://github-readme-stats.vercel.app/api?username=Seele0oO&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" \
+          "https://github-readme-stats-ruddy-tau.vercel.app/api?username=Seele0oO&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=false&include_all_commits=true" \
           -o stats.svg
 
       - name: Download the top languages file
@@ -27,7 +27,7 @@ jobs:
           curl -v -L \
           -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134" \
           -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8" \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=seele0oO" \
+          "https://github-readme-stats-ruddy-tau.vercel.app/api/top-langs/?username=seele0oO" \
           -o top-langs.svg
         
       - name: Upload artifacts
