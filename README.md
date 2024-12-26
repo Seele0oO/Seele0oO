@@ -2,7 +2,7 @@
 
 <b>Hello world</b>
 
-<img src='/assets/top-langs.svg' alt="Seele's github langs"> <img src='/assets/stats.svg' alt="Seele's github stats" >
+<img src='/assets/stats.svg' alt="Seele's github stats" >
 
 <h4>Coding status last week </h4>
 
