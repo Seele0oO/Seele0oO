@@ -2,6 +2,8 @@
 
 <b>Hello world</b>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,arduino,cloudflare,docker,git,github,githubactions,heroku,linux,md,mysql,nodejs,nginx,postgres,sqlite,vercel,workers,arch,ubuntu,debian,bash)](https://skillicons.dev)
+
 <img src='/assets/stats.svg' alt="Seele's github stats" >
 
 <h4>Coding status last week </h4>
