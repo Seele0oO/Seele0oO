@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                   ███████████████░░░░░░░░░░   60.01 %
-JSON                   ██████████░░░░░░░░░░░░░░░   39.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
