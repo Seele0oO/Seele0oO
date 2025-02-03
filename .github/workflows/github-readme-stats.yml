@@ -32,7 +32,7 @@ jobs:
       #     -o top-langs.svg
         
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
@@ -45,12 +45,12 @@ jobs:
     name: Push assets
     needs: [download-assets]
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: assets
           path: assets
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
